@@ -1,0 +1,6 @@
+Web
+https://repl.it/
+https://jsfiddle.net/
+
+atalho console javascript 
+alt+comand+i
